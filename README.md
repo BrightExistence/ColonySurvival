@@ -1,3 +1,11 @@
+CUSTOMIZED VERSION OF PIPLIZ' FILES, MODIFICATIONS ARE MINE AND MAY OR MAY NOT BE COMPLETE OR BUG FREE. THE GOAL OF THIS FORK IS TO MAKE (AT A MINIMUM) THE FOLLOWING CHANGES:
+
+1) Replace some textures (such as trees) that look just terrible.
+2) Allow builders and diggers to be used by players from the start of the colony.
+3) Modify and/or add jobs in a way that makes a colony seem more like a colony of humans rather than androids.
+
+ORIGINAL README FOLLOWS BELOW (SOME LINKS APPEAR BROKEN AS OF THIS EDIT)
+
 # Colony Survival
 Public gamedata files for Colony Survival
 
